@@ -101,6 +101,7 @@ content:
         sub_title: MSc Bioinformatics for Health Sciences
         description: | # this will include new lines to allow paragraphs
           Proin pulvinar diam nec hendrerit euismod. Pellentesque eu elementum ipsum, vitae imperdiet mi. Pellentesque lobortis risus neque, porttitor ultrices justo bibendum eu. Nunc bibendum rhoncus odio, nec ultrices ex ornare quis. Ut elementum justo in enim condimentum consectetur.      - layout: left
+      - layout: left
         title: Pázmány Péter Catholic University
         sub_title: BSc Molecular Bionics Engineering
         description: | # this will include new lines to allow paragraphs

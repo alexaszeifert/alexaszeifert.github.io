@@ -75,7 +75,7 @@ content:
       - layout: left
         title: Research Trainee
         sub_title: Brigham and Women's Hospital
-        caption: February 2022 - September 2023
+        caption: November 2024 - Present
         description: | # this will include new lines to allow paragraphs
           I am conducting my MSc thesis research in collaboration with the Applied Chest Imaging 
           Laboratory, Department of Radiology, at Brigham and Women’s Hospital.
@@ -83,7 +83,7 @@ content:
       - layout: left
         title: Graduate Student Researcher
         sub_title: Institut d’Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS)
-        caption: February 2022 - September 2023
+        caption: July 2024 - Present
         description: | # this will include new lines to allow paragraphs
           To undertake my MSc thesis project, I had the privilege of joining the ‘Inflammation and 
           repair in respiratory diseases’ research group of IDIBAPS.
